@@ -1,0 +1,10 @@
+nodejs-github-project/
+│
+├── app.js
+├── test.js
+├── package.json
+├── package-lock.json
+├── .gitignore
+├── Dockerfile
+├── README.md
+└── .dockerignore
