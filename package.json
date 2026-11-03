@@ -1,0 +1,27 @@
+
+{
+  "name": "nodejs-github-project",
+  "version": "1.0.0",
+  "description": "A Node.js REST API project using Express and Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js",
+    "test": "node --test test.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "api",
+    "docker",
+    "github"
+  ],
+  "author": "Saikat",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
